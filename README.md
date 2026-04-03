@@ -1,20 +1,4 @@
 # gestion-materiel
-Nouveau message de Irakoze Anderson  Afficher  Ignorer
-
-Aller au contenu
-Utiliser Gmail avec un lecteur d'écran
-1 sur 305
-test application
-Boîte de réception
-
-Irakoze Anderson
-31 mars 2026 10:07 (il y a 3 jours)
-https://replit.com/join/nwpapglxoa-uncknown
-3
-
-Irakoze Anderson <irakozeanderson32@gmail.com>
-08:05 (il y a 32 minutes)
-À moi
 
 <!DOCTYPE html>
 <html lang="fr">
@@ -975,9 +959,3 @@ Laboratoire"></textarea>
 </body>
 </html>
 
-Irakoze Anderson <irakozeanderson32@gmail.com>
-08:22 (il y a 15 minutes)
-À moi
-
-Ce message semble être en anglais
-https://stackblitz.com/edit/vitejs-vite-i3fzvyxx?file=index.html
